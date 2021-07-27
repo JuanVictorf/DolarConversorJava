@@ -21,6 +21,8 @@ public class Dolar {
 		
 		System.out.printf("Valor final em reais: %.2f%n ", dolar.ConverterOperation());
 		
+		System.out.println("Teste alteração.");
+		
 		sc.close();
 		
 		
